@@ -1,2 +1,1 @@
-- Datei enthält vollständig selbst implementiertes Projekt zur Vorhersage von Passagieren einer Fähre.
-- Verwendet SARIMA-Modell
+- Datei implementiert SARIMA-Modell zur Vorhersage von Passagieren einer Fähre anhand einer time series.
